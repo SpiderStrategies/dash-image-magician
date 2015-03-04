@@ -1,7 +1,6 @@
 {
   "name": "dash-image-magician",
   "version": "1.0.0",
-  "private": true,
   "description": "Dash custom version of graphics magick (imagemagick) that adds features we need.",
   "main": "index.js",
   "scripts": {
