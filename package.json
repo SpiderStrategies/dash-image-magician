@@ -1,0 +1,19 @@
+{
+  "name": "dash-image-magician",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dash custom version of graphics magick (imagemagick) that adds features we need.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=testing mocha -R spec test"
+  },
+  "repository": "",
+  "author": "Nathan Bowser <nathan.bowser@spiderstrategies.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "gm": "^1.17.0"
+  }
+}
